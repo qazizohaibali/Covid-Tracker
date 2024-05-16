@@ -126,7 +126,7 @@ function App() {
                     [theme.breakpoints.down('md')]: {padding: "0rem 1rem"}
                     }}>
                   <Typography variant="button">Source Code</Typography>
-                  <IconButton href="https://github.com/BUMBAIYA/CovidTracker" color="secondary" size="large">
+                  <IconButton href="https://github.com/qazizohaibali/Covid-Tracker" color="secondary" size="large">
                     <GitHubIcon/>
                   </IconButton>
                   <Typography variant="button">API</Typography>

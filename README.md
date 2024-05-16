@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### [Live Site](https://bumbaiya.github.io/CovidTracker/)
+### [Live Site](https://covidTracker.netlify.app )
 
 ![Webpage](https://github.com/BUMBAIYA/CovidTracker/assets/85615075/795b4a6d-ef67-42c5-8d42-37168b21dcdf)
 

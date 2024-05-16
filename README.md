@@ -14,5 +14,5 @@ Project also includes a Map made using [React Leadflet API](https://react-leafle
 API used is [disease.sh](https://disease.sh/) - Open Disease Data API
 
 Setup:
-- run ```git clone https://github.com/BUMBAIYA/CovidTracker.git``` in the prefered directory
+- run ```git clone https://github.com/qazizohaibali/Covid-Tracker.git``` in the prefered directory
 - run ```npm i && npm start```
